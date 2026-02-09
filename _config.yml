@@ -22,7 +22,7 @@ title: Keo's Blog
 email: hello@example.com
 description: >-
   Notes on coding, projects, and things I learn.
-baseurl: ""
+baseurl: "/myblog"
 url: "https://keo-dara.github.io"
 twitter_username: ""
 github_username: keo-dara
