@@ -7,6 +7,7 @@ categories: blog
 
 Naval "Intelligent is get what you want out of life"
 
+it isnt mean that i would do anything to win but i will do it in a way respect other
 **There are zero sum game in order for me to win someone else to lose. that is not the game i want to playing in.**
 
 
