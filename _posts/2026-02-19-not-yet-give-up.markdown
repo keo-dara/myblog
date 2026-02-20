@@ -5,7 +5,7 @@ date: 2026-02-19 00:18:37 +0700
 categories: blog
 ---
 
-The best thing in life is to get I want in life bese on what I believe in, at the same time there always **obstacle** blocking the way. 
+The best thing in life is to get I want in life base on what I believe in, at the same time there always **obstacle** blocking the way. 
 
 Use picture as a reminder for **myself**.
 
