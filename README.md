@@ -20,11 +20,11 @@ bundle exec jekyll serve
 
 ```
 DATE=$(date +%F)
-SLUG="my-new-post"
+SLUG="fast-car"
 cat > "_posts/${DATE}-${SLUG}.markdown" <<EOF
 ---
 layout: post
-title: "Failed to beaware of myself"
+title: "Fast Car"
 date: $(date +"%Y-%m-%d %H:%M:%S %z")
 categories: blog
 ---

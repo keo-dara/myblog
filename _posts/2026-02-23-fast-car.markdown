@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Fast Car"
+date: 2026-02-23 22:15:41 +0700
+categories: blog
+---
+
+
+**AI Era**, Look at every question can be answer by AI. I can work on the entired project alone by debug and explore requirement alone. Everything will become so cheap when thing can be automated. I am a builder but a builder in cambodia don't have much value or attension cuz I can be replace. When thing can be build fast, We look at packages and distribution.
+
+![Software distribution](/assets/images/software-distribution.jpg)
